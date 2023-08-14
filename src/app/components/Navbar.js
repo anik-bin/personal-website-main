@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <>
             <nav className="nav-header">
-                <a className="nav-header-heading" href="/">Aniket Bindhani</a>
+                <h2 className="nav-header-heading">Aniket Bindhani</h2>
                 <div className="nav-header-links">
                     <ul>
                         <li><Link href="/">Home</Link></li>
