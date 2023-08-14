@@ -20,7 +20,7 @@
 .nav-header-heading {
   font-weight: 700;
   font-size: 1.8rem;
-  text-decoration: none;
+  /* text-decoration: none; */
   /*to be changed later and add to a whole a class */
   color: black;
 }
@@ -180,6 +180,7 @@ nav ul li a:hover::after {
 /* responsiveness */
 
 /* Mobile First */
+
 @media only screen and (max-width: 768px) {
   .container {
     margin: 1rem auto;
