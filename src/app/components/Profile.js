@@ -8,7 +8,7 @@ export default function Profile() {
             </div>
 
             <div className="profile-intro-text">
-                <h1>Hi, I'm <b>Aniket Bindhani</b></h1>
+                <h1>Hi, I&apos;m <b>Aniket Bindhani</b></h1>
                 <p>Computer Science undergraduate with a passion for full-stack web development. From
                     conceptualization to implementation, I specialize in designing and developing dynamic websites
                     and blogs that engage users and deliver an exceptional user experience.</p>
