@@ -34,7 +34,7 @@ export default function Projects() {
                     <div className="work">
                         <img src="/images/project_images/work-4.jpeg" alt="" />
                         <div className="layer">
-                            <a href="https://anik-bin.github.io/Memory-Game/" target="_blank"><h3>Notes Directory</h3></a>
+                            <a href="https://github.com/anik-bin/notesdirectory-frontend" target="_blank"><h3>Notes Directory</h3></a>
                             <p>Store notes on the cloud and access them anywhere you want</p>
                         </div>
                     </div>
