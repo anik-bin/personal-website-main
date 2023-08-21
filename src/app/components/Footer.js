@@ -9,7 +9,7 @@ export default function Footer() {
                         style={{ "color": "#000000" }}></i></a>
                     <a target="_blank" href="https://twitter.com/aniketbindhani"><i className="fa-brands fa-twitter"
                         style={{ "color": "#000000" }}></i></a>
-                    <a target="_blank" href="mailto:aniketbindhani44@gmail.com"><i className="fa-regular fa-envelope"
+                    <a target="_blank" href="mailto:me@aniketbindhani.com"><i className="fa-regular fa-envelope"
                         style={{ "color": "#000000" }}></i></a>
                 </div>
 
