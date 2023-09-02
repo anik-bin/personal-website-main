@@ -10,8 +10,16 @@ export default function Projects() {
                     <div className="work">
                         <img src="/images/project_images/work-1.jpeg" alt="" />
                         <div className="layer">
-                            <a href="https://youtu.be/HjRZWtGhyu8" target="_blank"><h3>NewsFusion</h3></a>
+                            <a href="https://github.com/anik-bin/newsfusion" target="_blank"><h3>NewsFusion</h3></a>
                             <p>Get your daily dose of news for free</p>
+                        </div>
+                    </div>
+
+                    <div className="work">
+                        <img src="/images/project_images/work-5.jpeg" alt="" />
+                        <div className="layer">
+                            <a href="https://github.com/anik-bin/chat-app-appwrite" target="_blank"><h3>Chat Application</h3></a>
+                            <p>This is a chat application created using ReactJS for the frontend and Appwrite for the backend</p>
                         </div>
                     </div>
 
@@ -20,14 +28,6 @@ export default function Projects() {
                         <div className="layer">
                             <a href="https://anik-bin.github.io/textutils/" target="_blank"><h3>Text Metrics</h3></a>
                             <p>The website allows users to input text and instantly view the word count and character count of their input</p>
-                        </div>
-                    </div>
-
-                    <div className="work">
-                        <img src="/images/project_images/work-3.jpeg" alt="" />
-                        <div className="layer">
-                            <a href="https://anik-bin.github.io/Memory-Game/" target="_blank"><h3>Memory Game</h3></a>
-                            <p>A simple memory game in which you have to select two tiles having the same image</p>
                         </div>
                     </div>
 
