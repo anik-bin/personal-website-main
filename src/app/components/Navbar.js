@@ -9,7 +9,7 @@ export default function Navbar() {
                 <div className="nav-header-links">
                     <ul>
                         <li><Link href="/">Home</Link></li>
-                        <li><Link target="_blank" href="https://blog.aniketbindhani.com">Blog</Link></li>
+                        <li><Link target="_blank" href="https://aniketbindhani.hashnode.dev/">Blog</Link></li>
                     </ul>
                 </div>
             </nav>
