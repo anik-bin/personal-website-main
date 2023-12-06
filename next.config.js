@@ -4,11 +4,11 @@ const nextConfig = {
     return [
       {
         source: "/blog",
-        destination: "starter-kit-anik-bin.vercel.app/blog", 
+        destination: "https://starter-kit-mu-two.vercel.app/blog", 
       },
       {
         source: "/blog/:path*",
-        destination: "starter-kit-anik-bin.vercel.app/blog/:path*",
+        destination: "https://starter-kit-mu-two.vercel.app/blog/:path*",
     ];
   },
 }
